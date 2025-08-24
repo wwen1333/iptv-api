@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-24 06:41:27,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-08-24 18:44:21,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 央视卫视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -216,6 +216,7 @@ CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 武汉一台新闻综合,https://stream1.freetv.fun/wu-yi-xin-wen-zong-he-7.m3u8
 武汉二台电视剧,https://stream1.freetv.fun/wu-yi-2dian-shi-ju-1.m3u8
 武汉四台经济,https://stream1.freetv.fun/wu-yi-jing-ji-1.m3u8
+武汉教育,https://stream1.freetv.fun/wu-yi-jiao-yu-7.m3u8
 江夏新闻综合,https://stream1.freetv.fun/jiang-xia-xin-wen-zong-he-5.m3u8
 十堰新闻,https://stream1.freetv.fun/shi-yan-xin-wen-1.m3u8
 荆门新闻综合,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
@@ -226,6 +227,7 @@ CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
+翡翠台,https://stream1.freetv.fun/fei-cui-6.ctv
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
 翡翠台,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
 翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8
@@ -252,6 +254,7 @@ CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
 凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
@@ -289,7 +292,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 
 电影频道,#genre#
-CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy
+CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy#http://148.135.93.213:81/live.php?id=CHC家庭影院#http://148.135.93.213/live.php?id=CHC家庭影院
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 CHC动作电影,http://z.b.bkpcp.top/m.php
